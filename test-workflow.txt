@@ -1,1 +1,2 @@
-test work flow
+Here we have a workflow setup
+used github actions to test CRUD with a dumm MONGODB SERVER
