@@ -1,3 +1,7 @@
+### Using GitHub Actions
+[![NASA Project CI](https://github.com/Shiv2708/nasa-project/actions/workflows/node.yml/badge.svg)](https://github.com/Shiv2708/nasa-project/actions/workflows/node.yml)
+
+
 ## Getting Started
 
 1. Ensure you have Node.js installed.
